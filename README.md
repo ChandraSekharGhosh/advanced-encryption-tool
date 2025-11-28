@@ -1,5 +1,12 @@
 # advanced-encryption-tool
 
+Company: Codtech IT Solutions<br>
+Name: Chandra Sekhar Ghosh<br>
+Intern ID: CT04DR1779<br>
+Domain: Cyber Security & Ethical Hacking<br>
+Duration: 4 weeks<br>
+Mentor: Muzammil<br>
+
 A professional-grade command-line tool for encrypting and decrypting files using military-grade AES-256-GCM encryption with authenticated encryption and password-based key derivation.
 
 ---
