@@ -1,4 +1,4 @@
-# advanced-encryption-tool
+# Advanced-Encryption-Tool
 
 Company: Codtech IT Solutions<br>
 Name: Chandra Sekhar Ghosh<br>
